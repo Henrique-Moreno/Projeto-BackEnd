@@ -4,7 +4,7 @@
   "main": "src/server.ts",
   "license": "MIT",
   "scripts": {
-    "dev": "https://projeto-backend.onrender.com"
+    "dev": "ts-node-dev --transpile-only src/server.ts"
     
   },
   "devDependencies": {
